@@ -1,0 +1,1 @@
+{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "name" : "_id_", "ns" : "uptime.pings" }, { "v" : 1, "key" : { "timestamp" : -1 }, "name" : "timestamp_-1", "safe" : null, "ns" : "uptime.pings", "background" : true }, { "v" : 1, "key" : { "check" : 1 }, "name" : "check_1", "ns" : "uptime.pings", "background" : true, "safe" : null } ] }

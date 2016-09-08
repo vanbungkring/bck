@@ -1,0 +1,1 @@
+{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "name" : "_id_", "ns" : "uptime.checkyearlystats" }, { "v" : 1, "unique" : true, "key" : { "check" : 1, "timestamp" : -1 }, "name" : "check_1_timestamp_-1", "ns" : "uptime.checkyearlystats", "background" : true, "safe" : null } ] }

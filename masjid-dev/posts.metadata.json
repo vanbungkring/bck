@@ -1,0 +1,1 @@
+{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "name" : "_id_", "ns" : "masjid-dev.posts" }, { "v" : 1, "key" : { "slug" : 1 }, "name" : "slug_1", "ns" : "masjid-dev.posts", "background" : true } ] }

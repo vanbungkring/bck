@@ -1,0 +1,1 @@
+{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "name" : "_id_", "ns" : "tera-dev.skus" }, { "v" : 1, "unique" : true, "key" : { "skuId" : 1 }, "name" : "skuId_1", "ns" : "tera-dev.skus", "background" : true } ] }
